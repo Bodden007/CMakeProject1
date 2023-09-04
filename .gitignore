@@ -400,4 +400,4 @@ FodyWeavers.xsd
 # local file
 /out
 /.vs
-/json
+*.json

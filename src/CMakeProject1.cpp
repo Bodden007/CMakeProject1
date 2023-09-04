@@ -8,6 +8,6 @@ using namespace std;
 
 int main()
 {
-	cout << "Hello ЧУВАК два РАЗА" << endl;
+	cout << "Hello ЧУВАК два РАЗА , нет - три раза" << endl;
 	return 0;
 }
